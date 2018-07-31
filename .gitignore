@@ -1,0 +1,3 @@
+vision/data/
+vision/nnmodels/
+*.pyc
