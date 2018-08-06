@@ -30,8 +30,8 @@ FLAGS['learning_rate'] = 0.001
 FLAGS['summary_at'] = 10
 
 # epocs or max_steps is same meaning
-# FLAGS['n_epochs'] = 458
-FLAGS['n_epochs'] = 21
+FLAGS['n_epochs'] = 578
+# FLAGS['n_epochs'] = 21
 
 # Create a graph to hold the model
 # graph = tf.Graph()
